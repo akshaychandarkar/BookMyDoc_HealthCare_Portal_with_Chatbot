@@ -1,0 +1,102 @@
+/*Whubs.com - Download Free Responsive Website Layout Templates designed on HTML5 CSS3,
+Bootstrap which are 100% Mobile friendly. w3Hubs all Layouts are responsive cross 
+browser supported, best quality world class designs.*/
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800');
+body{
+padding: 0;
+margin: 0;
+overflow-x:hidden;
+font-family: "Open Sans";
+}
+h2{
+	text-align: center;
+	padding: 20px;
+	font-weight: 400;
+	
+	font-size: 36px;
+
+}
+img{
+	max-width: 100%;
+
+}
+h3{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 30px;
+	font-weight: 600;
+	text-transform: uppercase;
+	line-height: 1.6;
+}
+h5{
+	text-align: center;
+	font-size: 20px;
+	font-weight: 600;
+	line-height: 1.4;
+
+}
+p.card-text{
+	text-align: center;
+	padding: 5px;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.6;
+	letter-spacing: 1px;
+
+}
+#w3hubs .card{
+	border-radius: 20px;
+
+}
+#w3hubs .card:hover{
+	border:3px solid #D12E0B;
+	transition: 1s;
+	line-height: 0;
+
+}
+#w3hubs .socialicon .fa{
+	font-size: 30px;
+	padding: 5px;
+	border-radius: 90px;
+	color: #fff;
+	line-height: 1;
+	
+}
+#w3hubs .socialicon .fa:hover{
+	background: #000;
+	color: red;
+}
+@media(max-width: 932px){
+	h3{
+		font-size: 20px;
+	}
+	p.card-text{
+		font-size: 14px;
+		letter-spacing: 0px;
+	}
+	#w3hubs .socialicon .fa{
+		font-size: 20px;
+	}
+	h5{
+		font-size: 17px;
+   
+    line-height: 1;
+	}
+}
+@media(max-width: 768px){
+      .card-deck .card{
+        flex: 0 0 45%;
+        margin: 20px auto;
+      }
+    }
+@media(max-width: 691px){
+	#w3hubs {
+		margin: 20px auto;
+	}
+}
+@media(max-width: 619px){
+	.card-deck .card{
+		width: 80%;
+	}
+
+}
