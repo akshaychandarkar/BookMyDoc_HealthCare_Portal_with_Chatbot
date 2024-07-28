@@ -15,4 +15,4 @@ It offers a user-friendly interface for patients and doctors to connect, manage 
 ## How to Add Images
 To add images to your README file, use the following syntax:
 ```markdown
-![Model](https://drive.google.com/file/d/18jxtWndu-qt_Py6VJWW24DfRQdsfJEjC/view?usp=drive_link)
+![Model](https://github.com/akshaychandarkar/BookMyDoc_HealthCare_Portal_with_Chatbot/blob/main/Github%20Images/Homepage.png)
