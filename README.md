@@ -9,8 +9,5 @@ BookMyDoc is an online platform designed to simplify the process of booking doct
 - **Development Tools:** Sublime Text Editor 3, XAMPP Control Panel v3.2.4
 - **Operating System:** Windows 10
 
-## How to Add Images
-To add images to your README file, use the following syntax:
 
-```markdown
-![Image Description](https://github.com/akshaychandarkar/BookMyDoc_HealthCare_Portal_with_Chatbot/raw/main/Github%20Images/Homepage.png)
+![Home](https://github.com/akshaychandarkar/BookMyDoc_HealthCare_Portal_with_Chatbot/raw/main/Github%20Images/Homepage.png)
